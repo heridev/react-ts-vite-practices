@@ -1,0 +1,10 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 65px;
+}
+
+.something-different {
+  border: 1px solid green;
+  flex-grow: 3;
+}
